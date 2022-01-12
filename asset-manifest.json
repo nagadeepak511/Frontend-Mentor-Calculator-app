@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cff76268.css",
-    "main.js": "/static/js/main.f256518c.js",
-    "index.html": "/index.html",
-    "main.cff76268.css.map": "/static/css/main.cff76268.css.map",
-    "main.f256518c.js.map": "/static/js/main.f256518c.js.map"
+    "main.css": "/Frontend-Mentor-Calculator-app/static/css/main.cff76268.css",
+    "main.js": "/Frontend-Mentor-Calculator-app/static/js/main.f256518c.js",
+    "index.html": "/Frontend-Mentor-Calculator-app/index.html",
+    "main.cff76268.css.map": "/Frontend-Mentor-Calculator-app/static/css/main.cff76268.css.map",
+    "main.f256518c.js.map": "/Frontend-Mentor-Calculator-app/static/js/main.f256518c.js.map"
   },
   "entrypoints": [
     "static/css/main.cff76268.css",
